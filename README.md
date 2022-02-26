@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on multiple Freelance projects
 - 🌱 I’m currently learning Mobile App Development
-- 📚 I'm currently studying Electronics and Communications Engineering
+- 📚 I'm an Electronics and Communications Engineer from Nepal
 - 📫 How to reach me: 
 	[E-mail](mailto://timsinabibek960@gmail.com) , [Twitter](https://twitter.com/bimsina) , [LinkedIn](https://www.linkedin.com/in/bimsina/) , 
 
